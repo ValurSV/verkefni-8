@@ -1,7 +1,7 @@
-import { consonants } from "./lib/consonants";
-import { longest } from "./lib/longest";
-import { palindrome } from "./lib/palindrome";
-import { reverse } from "./lib/reverse";
-import { shortest } from "./lib/shortest";
-import { vowels } from "./lib/vowels";
+import { longest } from './lib/longest.js';
+import { shortest } from './lib/shortest.js';
+import { reverse } from './lib/reverse.js';
+import { palindrome } from './lib/palindrome.js';
+import { vowels } from './lib/vowels.js';
+import { consonants } from './lib/consonants.js';
 
